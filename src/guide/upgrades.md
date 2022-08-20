@@ -19,7 +19,7 @@ There are a variety of available plates:
 ### BOM (What you'll need)
 
 - 1x PEI coated spring steel plate:
-  - Q5 <- looking for contributor info
+  - Q5 <- 220mm / 8.6 Inch in size
   - QQ-S (Pro): 265 mm / 10.4 Inch in size
   - SR: 265 mm / 10.4 Inch in size
 - 1x bed plate sized fridge magnet, sticky on one side
